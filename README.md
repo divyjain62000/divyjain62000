@@ -32,9 +32,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyjain62000&show_icons=true&locale=en&layout=compact" alt="divyjain62000" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyjain62000)](https://github.com/divyjain62000/github-readme-stats)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyjain62000&show_icons=true&locale=en" alt="divyjain62000" /></p>
+[![Divy's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyjain62000&count_private=true)](https://github.com/divyjain62000/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyjain62000&" alt="divyjain62000" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyjain62000)](https://github.com/divyjain62000/github-readme-streak-stats)
