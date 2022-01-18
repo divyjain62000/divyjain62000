@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divy Jain</h1>
 <h3 align="center">A disciplined, hard working and punctual individual</h3>
-<p align="Center"> <img src="https://media1.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="300px" height="200px" /> </p>
+<p align="Center"> <img src="https://user-images.githubusercontent.com/82946769/149862468-5ea9785c-ac22-4967-94ae-45d87d04ac49.png" width="400px" height="300px" /> </p>
 
 
 <h3 align="left">Languages and Tools Known:</h3>
