@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divy Jain</h1>
-<h3 align="center">A disciplined, hard working and punctual individual</h3>
+<h3 align="center">Full-Stack Developer & Solution Designer with 4+ Years of Experience</h3>
+<h3 align="center">Successfully Delivered 3 Products to Production</h3>
 <p align="Center"> <img src="https://user-images.githubusercontent.com/82946769/149862468-5ea9785c-ac22-4967-94ae-45d87d04ac49.png" width="400px" height="300px" /> </p>
 
 
